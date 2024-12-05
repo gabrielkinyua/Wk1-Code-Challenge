@@ -40,6 +40,17 @@ This repository contains JavaScript solutions to three programming challenges. T
 3. View the status or demerit points in the output.
 
 
+### 3. Net Salary Calculation
+
+**Description**: This function calculates the net salary of an employee after deducting tax, NHIF (National Hospital Insurance Fund), and NSSF (National Social Security Fund). The function takes the gross salary (including any benefits) and returns the net salary after deductions.
+
+### How it works:
+
+1. **Gross Salary**: The total salary before deductions.
+2. **Tax Calculation**: The salary is taxed based on various tax brackets.
+3. **NHIF Deduction**: The NHIF deduction is applied based on the salary.
+4. **NSSF Deduction**: The NSSF deduction is applied with a cap on the amount deducted.
+5. **Net Salary**: The final salary after applying tax, NHIF, and NSSF deductions.
 
 ## How to Run the Scripts
 
